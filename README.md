@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Kumar Singha</h1>
 <h3 align="center">M.Sc. Physics student at IIT Kharagpur | DST INSPIRE Scholar | Quantum computing, neuromorphic hardware & ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanksingha&label=Profile%20views&color=0e75b6&style=flat" alt="sayanksingha" /> </p>
+<p align="left"> <"sayanksingha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanksingha" alt="sayanksingha" /></a> </p>
 
